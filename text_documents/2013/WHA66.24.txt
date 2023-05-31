@@ -1,0 +1,113 @@
+ 
+  
+SIXTY-SIXTH WORLD HEALTH ASSEMBLY  WHA 66.24 
+Agenda item  17.5  27 May 2013 
+eHealth standardization and interoperability  
+ 
+The Sixty -sixth  World Health Assembly,  
+Having considered the report by the Secretariat,1 
+Recalling resolution WHA58.28 on eHealth;  
+Recognizing that information and communication technologies have been incorporated in the 
+Millennium Development Goals;  
+Recognizing that the Regional Committee for Africa adopted resolut ion AFR/RC60/R3 on 
+eHealth in the African Region and that the 51st Directing Council of the Pan American Health 
+Organization adopted resolution CD51.R5 on eHealth and has approved the related Strategy and Plan 
+of Action; 2 
+Recognizing that the secure, effective and timely transmission of personal data or population 
+data across information systems requires adherence to standards on health data and related technology;  
+Recognizing that it is essential to make appropriate use of information and communication 
+technologies in order to improve care, to increase the level of engagement of patients in their own 
+care, as appropriate, to offer quality health services, to support sustainable financing of health care 
+systems, and to promote universal access;  
+Recognizing that the lack of a seamless exchange of data within and between health information 
+systems hinders care and leads to fragmentation of health information systems, and that improvement in this is essential to realize the full potential of inf ormation and communication technologies in health 
+system strengthening;  
+Recognizing that, through standardized electronic data: health workers can gain access to fuller 
+and more accurate information in electronic form on patients at the point of care; phar macies can 
+receive prescriptions electronically; laboratories can transmit test results electronically; imaging and diagnostic centres have access to high -quality digital images; researchers can carry out clinical trials 
+and analyse data with greater speed  and accuracy; public health authorities have access to electronic 
+reports on vital events in a timely manner, and can implement public health measures based on the 
+analysis of health data; and individuals can gain access to their personal medical informat ion, which 
+supports patient empowerment;  
+                                                      
+1 Document A66/26.  
+2 See document CD/51/13.  WHA6 6.24 
+ 
+ 
+ 
+ 
+ 
+ 
+2 Recognizing that advances in medical health care, coupled with an exponential increase in the 
+use of information and communication technologies in the health sector and other related fields, 
+including the environment, have brought about a need to collect, store and process more data about 
+patients and their environment in multiple computer and telecommunication systems and, therefore, 
+ehealth standardization and interoperability should address standardization and int eroperability issues 
+related to hardware, systems, infrastructure, data and services;  
+Recognizing that the electronic collection, storage, processing and transmission of personal 
+health data require adherence to the highest standards of data protection;  
+Recognizing that the electronic transmission of personal or population data using health 
+information systems based on information and communication technologies requires adherence to 
+standards in health data and technology in order to achieve a secure, timel y and accurate exchange of 
+data for health decision- making;  
+Emphasizing that scientific evaluation of the impact on health care outcomes of health 
+information systems based on information and communication technologies is necessary to justify 
+strong invest ment in such technologies for health;  
+Highlighting the need for national eHealth strategies to be developed and implemented, in order 
+to provide the necessary context for the implementation of ehealth and health data standards, and in order that countries undertake regular, scientific evaluation;  
+Recognizing that it is essential to ensure secure online management of health data, given their 
+sensitive nature, and to increase trust in eHealth tools and health services as a whole;  
+Emphasizing that health- related global top- level domain names in all languages, including 
+“.health”, should be operated in a way that protects public health, including by preventing the further 
+development of illicit markets of medicines, medical devices and unauthorized health produc ts and 
+services;  
+1. URGES Member States:
+1 
+(1) to consider, as appropriate, options to collaborate with relevant stakeholders, including 
+national authorities, relevant ministries, health care providers, and academic institutions, in 
+order to draw up a road map for implementation of ehealth and health data standards at national 
+and subnational levels;  
+(2) to consider developing, as appropriate, policies and legislative mechanisms linked to an 
+overall national eHealth strategy, in order to ensure compliance in  the adoption of ehealth and 
+health data standards by the public and private sectors, as appropriate, and the donor community, as well as to ensure the privacy of personal clinical data;  
+(3) to consider ways for ministries of health and public health autho rities to work with their 
+national representatives on the ICANN Governmental Advisory Committee in order to coordinate national positions towards the delegation, governance and operation of health- related 
+global top- level domain names in all languages, inc luding “.health”, in the interest of public 
+health;  
+                                                      
+1 And, where applicable, regional economic integration organizations.    WHA66 .24 
+ 
+ 
+ 
+ 
+ 
+ 
+  3 2. REQUESTS the Director -General, within existing resources:  
+(1) to provide support to Member States, as appropriate, in order to integrate the application 
+of ehealth and health data standards and interoperability in their national eHealth strategies 
+through a multistakeholder and multisectoral approach including national authorities, relevant 
+ministries, relevant private sector parties, and academic institutions;  
+(2) to provide support to Member States, as appropriate, in their promotion of the full 
+implementation of ehealth and health data standards in all eHealth initiatives;  
+(3) to provide guidance and technical support, as appropriate, to facilitate the coherent an d 
+reproducible evaluation of information and communication technologies in health interventions, including a database of measurable impacts and outcome indicators;  
+(4) to promote full utilization of the network of WHO collaborating centres for health and 
+medical informatics and eHealth in order to support Member States in related research, 
+development and innovation in these fields;  
+(5) to promote, in collaboration with relevant international standardization agencies, 
+harmonization of eHealth standards;  
+(6) to convey to the appropriate bodies, including the ICANN Governmental Advisory 
+Committee  and ICANN constituencies, the need for health -related global top -level domain 
+names in all languages, including “.health”, to be consistent with global public health objectives;  
+(7) to continue working with the appropriate entities, including the ICANN Governmental 
+Advisory Committee  and ICANN constituencies as well as intergovernmental organizations, 
+towards the protection of the names and acronyms of intergovernmenta l organizations, 
+including WHO, in the Internet domain name system;  
+(8) to develop a framework for assessing progress in implementing this resolution and report 
+periodically, through the Executive Board, to the World Health Assembly, using that 
+framework.  
+ 
+     Ninth  plenary meeting, 27 May 2013  
+A66/VR/ 9 
+ 
+=     =     =  

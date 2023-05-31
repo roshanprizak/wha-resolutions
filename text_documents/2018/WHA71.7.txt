@@ -1,0 +1,132 @@
+ 
+ 
+ 
+SEVENT Y-FIRST  WORLD HEALTH ASSEMBLY  WHA 71.7 
+Agenda item 12.4 26 May 20 18 
+Digital health  
+The Seventy -first World Health Assembly,  
+Having considered the report on mHealth;1 
+Recalling resolutions WHA58.28 (2005) on eHealth and WHA66.24 (2013) on eHealth 
+standardization and interoperability;  
+Recognizing the potential of digital technologies to advance the Sustainable Development 
+Goals, and in particular to support health systems in all c ountries in health promotion and disease 
+prevention, and by improving the accessibility, quality and affordability of health services;  
+Recognizing also that while technology and innovations can enhance health service capabilities, 
+human interaction remains  a key element to patients’ well -being;  
+Underscoring the need to ensure that digital health solutions complement and enhance existing 
+health service delivery models, strengthen integrated, people -centred health services and contribute to 
+improved populatio n health, and health equity, including gender equality, and addressing the lack of 
+evidence on the impact of digital health in these respects;  
+Acknowledging that the transfer of technology and knowledge on mutually agreed terms, as 
+well as technical cooper ation, aligned with Sustainable Development Goal 17 (Strengthen the means 
+of implementation and revitalize the global partnership for sustainable development), are important in 
+promoting digital health;  
+Highlighting recent progress in the development and implementation of digital health strategies, 
+policies, legislation and programmes by Member States,2 WHO and partner organizations;  
+Acknowledging previous experience3 of countries and organizations, the interconnectedness of 
+digital technologies, the colle ction, management and evaluation of health data, the robustness of the 
+enabling environment, in line with established good practices, while considering the sustainability of 
+innovations, and their feasibility, scale -up and inclusivity,  
+                                                      
+1 Document A71/20.  
+2 And, where applicable, regional economic integration organizations.  
+3 Programmes specified in comments from Missions included the Global Observatory for eHealth, WHO -ITU 
+initiative on mHealth for noncommunicable diseases , the Innovation Working Group, Every Woman Every Child initiative 
+and the WHO -ITU National eHealth Strategy Toolkit. Principles for Digital Development (WHO endorsed) . WHA 71.7 
+ 
+ 
+ 
+ 
+ 
+ 
+2 1. URGES Member States:1 
+(1) to assess their use of digital technologies for health, including in health information 
+systems at the national and subnational levels, in order to identify areas of improvement, and to 
+prioritize, as appropriate, the development, evaluation, implementatio n, scale -up and greater 
+utilization of digital technologies, as a means of promoting equitable, affordable and universal 
+access to health for all, including the special needs of groups that are vulnerable in the context 
+of digital health;  
+(2) to consider,  as appropriate, how digital technologies could be integrated into existing 
+health systems infrastructures and regulation, to reinforce national and global health priorities 
+by optimizing existing platforms and services, for the promotion of people -centere d health and 
+disease prevention and in order to reduce the burden on health systems;  
+(3) to optimize, in health systems development and reforms, the use of resources by 
+developing health services alongside the application and use of digital technologies;  
+(4) to identify priority areas where normative guidance and technical assistance and advice 
+on digital health would be beneficial, including, but not limited to, gaps in research, evidence based standards, support to implementation and scale -up, financing a nd business models, 
+content, evaluation, cost –effectiveness and sustainability, data security, ethical and legal issues, 
+re-use and adaptation of existing digital health and other relevant tools;  
+(5) to work towards and support interoperability of digital  technologies for health by, inter  
+alia, promoting the use of international and open standards as an affordable, effective and easily 
+adaptable solution;  
+(6) to disseminate, as appropriate, best practices and successful examples of digital health 
+architect ure, programmes, and services, in particular effective policy design and practical 
+implementation, with the international community, including through WHO, bilateral, regional, 
+cross -regional and global networks, digital platforms and hubs;  
+(7) to strengt hen public health resilience and promote opportunities, as appropriate, through 
+the use of digital technologies, including to improve access to, and monitoring, sharing and use 
+of, quality data, direct citizen, health worker and government engagement, and to build capacity 
+for rapid response to disease incidents and public health emergencies, leveraging the potential of 
+digital information and communication technology to enable multidirectional communications, 
+feedback loops and data -driven “adaptive manage ment”;  
+(8) to build, especially through digital means, capacity for human resources for digital health, 
+as appropriate, across both health and technology sectors, and to communicate areas of specific 
+need to WHO in order to receive appropriate technical as sistance;  
+(9) to improve the digital skills of all citizens, including through working with civil society to 
+build public trust and support for digital health solutions, and to promote the application of 
+digital health technology in the provision of, and access to, everyday health services;  
+                                                      
+1 And, where applicable, regional economic integration organizations.    WHA 71.7 
+ 
+ 
+ 
+ 
+ 
+ 
+  3 (10) to develop, as appropriate, legislation and/or data protection policies around issues such 
+as data access, sharing, consent, security, privacy, interoperability and inclusivity consistent 
+with international human r ights obligations and to communicate these on a voluntary basis to 
+WHO;  
+(11) to develop, as appropriate, and in coordination with existing and emerging regional hubs 
+and support mechanisms, effective partnerships with stakeholders from across all sectors i n the 
+use of digital health;  
+2. REQUESTS the Director -General:  
+(1) to develop, within existing resources, and in close consultation with Member States1 and 
+with inputs from relevant stakeholders as appropriate, a global strategy on digital health, 
+identifying  priority areas including where WHO should focus its efforts;  
+(2) to elevate the strategic capacity of WHO in digital technologies and to mainstream these 
+in WHO’s work, operations and relevant programmes, including when working with Member 
+States;  
+(3) to provide technical assistance and normative guidance to Member States, on request, for 
+scaling up the implementation of digital health – including through the development and 
+implementation of Member States’ digital health strategies, and in line with the T hirteenth 
+General Programme of Work, 2019 –2023, with the appropriate structure, resources, assets and 
+capabilities, within existing resources;  
+(4) to ensure that WHO builds on its strengths, by developing guidance for digital health, 
+including, but not li mited to, health data protection and usage, on the basis of its existing 
+guidelines and successful examples from global, regional and national programmes, including 
+through the identification and promotion of best practices, such as evidence -based digital health 
+interventions and standards;  
+(5) to develop a repository on regulations, evidence related to improvements and unintended 
+effects regarding health promotion, disease prevention and access to, and quality and cost –
+effectiveness of, health services, an d best practices relating to digital health technologies, 
+provided by, inter alia, Member States on a voluntary basis;  
+(6) to monitor developments and trends of digital technologies in health systems, public 
+health and data science, and analyse their impli cations for the achievement of the health -related 
+Sustainable Development Goals;  
+(7) to promote WHO’s collaboration with other organizations of the United Nations system 
+and other relevant stakeholders to strengthen digital health implementation, by levera ging their 
+capabilities;  
+                                                      
+1 And, as applicable, regional economic integration organizations.  WHA 71.7 
+ 
+ 
+ 
+ 
+ 
+ 
+4 (8) to submit a report to the Seventy -third World Health Assembly in 2020 on the progress 
+made in implementing this resolution.  
+Seventh  plenary meeting, 26 May 201 8 
+A71/VR/ 7 
+=     =     =  
