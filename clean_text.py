@@ -37,7 +37,7 @@ def remove_extra_spaces(content, rep):
     
 
 # %% Files with resolutions, clean documents
-df_info = pd.read_csv("iris_documents_pdf.csv", index_col=False)
+df_info = pd.read_csv("data/iris_documents_pdf.csv", index_col=False)
 df_resolutions = pd.DataFrame()
 
 names = df_info['number'].to_list()
@@ -50,20 +50,20 @@ uppercase_pattern = r'(?<!\S)[A-Z\s]+\b'
 
 for year in range(1948, 2023):
     print(year)
-    folder_path = f"text_documents/{year}"
+    folder_path = f"data/text_documents/{year}"
     files = []
     for filename in os.listdir(folder_path):
         if re.match(pattern, filename):
-            files.append(f"text_documents/{year}/{filename}")
+            files.append(f"data/text_documents/{year}/{filename}")
 
     if len(files)==0:
-        files = glob.glob(f"text_documents/{year}/WHA*.resolutions.txt")
+        files = glob.glob(f"data/text_documents/{year}/WHA*.resolutions.txt")
         
-    if not os.path.exists(f"cleaned_text_documents/{year}"):
-        os.makedirs(f"cleaned_text_documents/{year}")
+    if not os.path.exists(f"data/cleaned_text_documents/{year}"):
+        os.makedirs(f"data/cleaned_text_documents/{year}")
 
     for file in files:
-        if os.path.exists(f"cleaned_text_documents/{year}/"+file.split("/")[-1]):
+        if os.path.exists(f"data/cleaned_text_documents/{year}/"+file.split("/")[-1]):
             continue
 
         with open(file) as f:
@@ -107,7 +107,7 @@ for year in range(1948, 2023):
                         print(res_title)
                         row = pd.DataFrame([{'number': res_id, 'title': res_title}])
                         df_resolutions = pd.concat([df_resolutions, row])
-                        with open(f"cleaned_text_documents/{year}/"+f"{wha_text}.{res_num-1}"+".txt", "w") as f:
+                        with open(f"data/cleaned_text_documents/{year}/"+f"{wha_text}.{res_num-1}"+".txt", "w") as f:
                             t2w = res_text[match_ss.end():]
                             t2w = t2w.split()
                             t2w_final = ""
@@ -140,7 +140,7 @@ for year in range(1948, 2023):
                     print(res_title)
                     row = pd.DataFrame([{'number': res_id, 'title': res_title}])
                     df_resolutions = pd.concat([df_resolutions, row])
-                    with open(f"cleaned_text_documents/{year}/"+f"{wha_text}.{res_num-1}"+".txt", "w") as f:
+                    with open(f"data/cleaned_text_documents/{year}/"+f"{wha_text}.{res_num-1}"+".txt", "w") as f:
                         t2w = res_text[match_ss.end():]
                         t2w = t2w.split()
                         t2w_final = ""
@@ -202,7 +202,7 @@ for year in range(1948, 2023):
         cleaned_content = remove_extra_spaces(content, 2)
         # print(cleaned_content)
 
-        with open(f"cleaned_text_documents/{year}/"+file.split("/")[-1], "w") as f:
+        with open(f"data/cleaned_text_documents/{year}/"+file.split("/")[-1], "w") as f:
             t2w = cleaned_content
             t2w = t2w.split()
             t2w_final = ""
@@ -216,10 +216,9 @@ for year in range(1948, 2023):
             f.write(t2w_final)
             # f.write(cleaned_content)
 
-    df_resolutions.to_csv("wha_resolutions.csv", index=False)
+    df_resolutions.to_csv("data/wha_resolutions.csv", index=False)
 
-df_resolutions.to_csv("wha_resolutions.csv", index=False)
+df_resolutions.to_csv("data/wha_resolutions.csv", index=False)
 
-# ocrmypdf.ocr(f'{files[0]}', 'output.pdf', deskew=True, force_ocr=True)  
 
 # %%

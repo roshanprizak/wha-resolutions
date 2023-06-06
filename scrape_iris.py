@@ -14,8 +14,8 @@ from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 import pandas as pd
 
-if not os.path.exists("IRIS_documents"):
-    os.makedirs("IRIS_documents")
+if not os.path.exists("data/IRIS_documents"):
+    os.makedirs("data/IRIS_documents")
 
 # %% make list of documents with links to their HTML pages
 
@@ -58,13 +58,13 @@ for session in range(start_session, end_session+1):
                 elif document_number=="-":
                     df_info = pd.concat([df_info, row])
 
-        df_info.to_csv("iris_documents.csv", index=False)
+        df_info.to_csv("data/iris_documents.csv", index=False)
 
-df_info.to_csv("iris_documents.csv", index=False)
+df_info.to_csv("data/iris_documents.csv", index=False)
 
 # %% visit each HTML page and add pdf link
 
-df_info = pd.read_csv("iris_documents.csv", index_col=False)
+df_info = pd.read_csv("data/iris_documents.csv", index_col=False)
 df_info['pdf'] = ""
 for i in range(len(df_info)):
     print(f"{i}/{len(df_info)}")
@@ -79,23 +79,23 @@ for i in range(len(df_info)):
             continue
     df_info['pdf'][i] = pdf_links[-1]
 
-    df_info.to_csv("iris_documents_pdf.csv", index=False)
+    df_info.to_csv("data/iris_documents_pdf.csv", index=False)
 
-df_info.to_csv("iris_documents_pdf.csv", index=False)
+df_info.to_csv("data/iris_documents_pdf.csv", index=False)
 
 # %% download each documents
 
-df_info = pd.read_csv("iris_documents_pdf.csv", index_col=False)
+df_info = pd.read_csv("data/iris_documents_pdf.csv", index_col=False)
 for i in range(len(df_info)):
     print(f"{i}/{len(df_info)}")
-    if not os.path.exists(f"IRIS_documents/{df_info['date'][i]}"):
-        os.makedirs(f"IRIS_documents/{df_info['date'][i]}")
+    if not os.path.exists(f"data/IRIS_documents/{df_info['date'][i]}"):
+        os.makedirs(f"data/IRIS_documents/{df_info['date'][i]}")
 
     filename = ".".join(df_info['number'][i].split("/"))
     if filename=="-":
         filename = df_info['pdf'][i].split("?")[0].split("/")[-1].split(".")[0]
 
     response = requests.get("https://apps.who.int"+df_info['pdf'][i])
-    with open(f"IRIS_documents/{df_info['date'][i]}/{filename}.pdf", 'wb') as f:
+    with open(f"data/IRIS_documents/{df_info['date'][i]}/{filename}.pdf", 'wb') as f:
         f.write(response.content)
 # %%
